@@ -1,0 +1,6 @@
+
+selenium
+pandas
+ipywidgets
+voila
+webdriver-manager
